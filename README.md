@@ -63,7 +63,7 @@ Algumas variáveis foram renomeadas apenas para efeito de apresentação:
     • “number_of_reviews” = “Nº Reviews”.
 
 #### Figura 3 – Correlações entre faturamento e características do anúncio
-![Image](images/correl.png)
+![Image](images/correlacao.png)
 
 ### 4 - Verificar qual antecedência média das reservas e se esse número é maior ou menor no caso de reservas para os finais de semana
 
