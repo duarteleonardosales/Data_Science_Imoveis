@@ -66,9 +66,8 @@ Algumas variáveis foram renomeadas apenas para efeito de apresentação:
 
        
 #### Figura 3 – Correlações entre faturamento e características do anúncio
-![Image](images/correlacao.png)
-      
-      
+<img src="images/correlacao.png" width="1166" height="69">
+       
 ### 4 - Verificar qual antecedência média das reservas e se esse número é maior ou menor no caso de reservas para os finais de semana
 
 A **antecedência** média geral das reservas é de 32 dias e 8,465 horas
