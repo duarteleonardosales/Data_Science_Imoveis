@@ -20,7 +20,7 @@ Deseja-se:
 
 ## 📊 Resultados
 
-### 1 - Ordenar os bairros em ordem crescente de número de anúncios (*airbnb_listing_id*)
+### 1 - Ordenar os bairros em ordem crescente de número de anúncios
 
 O número de anúncios para cada bairro pode ser observado na tabela 1 e figura 1.
 
@@ -37,7 +37,7 @@ O número de anúncios para cada bairro pode ser observado na tabela 1 e figura 
 #### Figura 1 - Nº de anúncios por bairro
 ![Image](images/fig1.png)
       
-### 2 - Ordenar os bairros em ordem crescente de faturamento médio dos anúncios (*airbnb_listing_id*)
+### 2 - Ordenar os bairros em ordem crescente de faturamento médio dos anúncios
 O faturamento médio para cada bairro pode ser observado na tabela 2 e figura 2.
       
 #### Tabela 2 - Faturamento médio por bairro
