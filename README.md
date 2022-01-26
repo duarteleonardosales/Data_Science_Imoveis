@@ -23,7 +23,7 @@ Deseja-se:
 ### 1 - Ordenar os bairros em ordem crescente de número de anúncios (*airbnb_listing_id*)
 
 O número de anúncios para cada bairro pode ser observado na tabela 1 e figura 1.
-
+      
 #### Tabela 1 - Quantidade de anúncios por bairro
 |Bairro| Nº de anúncios|
 |--|--|
@@ -32,14 +32,14 @@ O número de anúncios para cada bairro pode ser observado na tabela 1 e figura 
 |Jurerê|539|
 |Canasvieiras|1177|
 |Ingleses|2388|
-
+            
 #### Figura 1 - Quantidade de anúncios por bairro
 ![Image](images/fig1.png)
-
+      
 ### 2 - Ordenar os bairros em ordem crescente de faturamento médio dos anúncios (*airbnb_listing_id*)
 O faturamento médio para cada bairro pode ser observado na tabela 2 e figura 2.
-
-#### Tabela 2 - Faturamento médio por bairro
+      
+####      Tabela 2 - Faturamento médio por bairro
 |Bairro| Faturamento médio|
 |--|--|
 |Centro|218,73|
@@ -47,12 +47,12 @@ O faturamento médio para cada bairro pode ser observado na tabela 2 e figura 2.
 |Canasvieiras|294,16|
 |Ingleses|358,26|
 |Jurerê|409,61|
-
-#### Figura 2 – Faturamento médio por bairro
+            
+####      Figura 2 – Faturamento médio por bairro
 ![Image](images/fig2.png)
-
+      
 ### 3 - Verificar se há correlações entre as características de um anúncio e seu faturamento
-
+      
 As correlações obtidas podem ser observadas na figura 3.
 Algumas variáveis foram renomeadas apenas para efeito de apresentação:
 
@@ -61,10 +61,10 @@ Algumas variáveis foram renomeadas apenas para efeito de apresentação:
     • “star_rating” = “Classificação”;
     • “is_superhost” = “Superhost”;
     • “number_of_reviews” = “Nº Reviews”.
-
+                
 #### Figura 3 – Correlações entre faturamento e características do anúncio
 ![Image](images/correlacao.png)
-
+      
 ### 4 - Verificar qual antecedência média das reservas e se esse número é maior ou menor no caso de reservas para os finais de semana
 
 
