@@ -1,10 +1,11 @@
-[![author](https://img.shields.io/badge/Autor-Leonardo_Duarte-red.svg)](https://www.linkedin.com/in/leonardo-sales-duarte/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-3712/)
+[![author](https://img.shields.io/badge/Autor-Leonardo_Duarte-red.svg)](https://www.linkedin.com/in/leonardo-sales-duarte/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-3712/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H5VC3OMgPVSrZcWJ1ZHbrrNjtDCjuN6P?usp=sharing)
+
 
 # 🚀 Seazone Code Challenge - Data Science
 
 ## 💻 Código completo no Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link)
+[Abrir no Colab](https://colab.research.google.com/drive/1H5VC3OMgPVSrZcWJ1ZHbrrNjtDCjuN6P?usp=sharing)
 
 ## 📝 Descrição do desafio
 
@@ -21,6 +22,8 @@ Deseja-se:
 
 ### 1 - Ordenar os bairros em ordem crescente de número de anúncios (*airbnb_listing_id*)
 
+O número de anúncios para cada bairro pode ser observado na tabela 1 e figura 1.
+
 #### Tabela 1 - Nº de anúncios por bairro
 |Bairro| Nº de anúncios|
 |--|--|
@@ -33,8 +36,23 @@ Deseja-se:
 #### Figura 1 - Nº de anúncios por bairro
 ![Image](images/image.png)
 
-
 ### 2 - Ordenar os bairros em ordem crescente de faturamento médio dos anúncios (*airbnb_listing_id*)
+O faturamento médio para cada bairro pode ser observado na tabela 2 e figura 2.
+
+#### Tabela 2 - Faturamento médio por bairro
+|Bairro| Faturamento médio|
+|--|--|
+|Centro|218,73|
+|Lagoa da Conceição|239,89|
+|Canasvieiras|294,16|
+|Ingleses|358,26|
+|Jurerê|409,61|
+
+#### Figura 2 – Faturamento médio por bairro
+![Image](images/image.png)
+
+
+
 ### 3 - Verificar se há correlações entre as características de um anúncio e seu faturamento
 ### 4 - Verificar qual antecedência média das reservas e se esse número é maior ou menor no caso de reservas para os finais de semana
 
