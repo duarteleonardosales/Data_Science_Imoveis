@@ -55,7 +55,6 @@ O faturamento médio para cada bairro pode ser observado na tabela 2 e figura 2.
       
 ### 3 - Verificar se há correlações entre as características de um anúncio e seu faturamento
 
-As correlações obtidas podem ser observadas na figura 3.
 Algumas variáveis foram renomeadas apenas para efeito de apresentação:
 
     • “number_of_bedrooms” = “Nº de quartos”;
@@ -63,11 +62,10 @@ Algumas variáveis foram renomeadas apenas para efeito de apresentação:
     • “star_rating” = “Classificação”;
     • “is_superhost” = “Superhost”;
     • “number_of_reviews” = “Nº Reviews”.
-
-       
+As correlações obtidas podem ser observadas na figura 3.
 #### Figura 3 – Correlações entre faturamento e características do anúncio
 <img src="images/correlacao.png" width="1166" height="69">
-       
+
 ### 4 - Verificar qual antecedência média das reservas e se esse número é maior ou menor no caso de reservas para os finais de semana
 
 A **antecedência** média geral das reservas é de 32 dias e 8,465 horas
