@@ -67,6 +67,7 @@ Algumas variáveis foram renomeadas apenas para efeito de apresentação:
     • “is_superhost” = “Superhost”;
     • “number_of_reviews” = “Nº Reviews”.
 As correlações obtidas podem ser observadas na figura 3.
+      
 #### Figura 3 – Correlações entre faturamento e características do anúncio
 <img src="images/correlacao.png" width="1166" height="69">
 
