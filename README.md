@@ -15,7 +15,7 @@ Deseja-se:
 1.  Ordenar os bairros em ordem crescente de número de anúncios (*airbnb_listing_id*);
 2.  Ordenar os bairros em ordem crescente de faturamento médio dos anúncios (*airbnb_listing_id*);
 3.  Verificar se há correlações entre as características de um anúncio e seu faturamento.
-4.  Verificar qual antecedência média das reservas e se esse número é maior ou menor no caso de reservas para os finais de semana.  
+4.  Calcular a antecedência média das reservas e se esse número é maior ou menor no caso de reservas para os finais de semana.  
 
 ## 📊 Resultados
 
