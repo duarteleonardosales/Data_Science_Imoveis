@@ -81,9 +81,9 @@ Por outro lado características como: “*star_rating*”, “*is_superhost*” 
 
 De modo geral, é correto dizer que há correlações entre as características de um anúncio e seu *faturamento*, mas havia a expectativa que as correlações obtidas fossem mais fortes. Possíveis soluções para tentar melhorar as correlações:
 
-Aplicar transformações nas variáveis; 
+* Aplicar transformações nas variáveis; 
 
-Fazer as correlações para cada bairro isoladamente, isso porque uma característica anunciada pode ser mais relevante para um bairro do que para outro, por exemplo, a distância até a praia costuma ser mais relevante em bairros que sofrem influência desse ponto valorizador.
+* Fazer as correlações para cada bairro isoladamente, isso porque uma característica anunciada pode ser mais relevante para um bairro do que para outro, por exemplo, a distância até a praia costuma ser mais relevante em bairros que sofrem influência desse ponto valorizador.
 
 ### 4 - Verificar qual antecedência média das reservas e se esse número é maior ou menor no caso de reservas para os finais de semana
 
