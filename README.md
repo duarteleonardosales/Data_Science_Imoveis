@@ -7,9 +7,9 @@
 
 [Abrir no Colab](https://colab.research.google.com/drive/1H5VC3OMgPVSrZcWJ1ZHbrrNjtDCjuN6P?usp=sharing)
 
-## 📝 Descrição do desafio
+## 📝 Descrição
 
-O desafio consiste em analisar os dados de ocupação e preço de anúncios no Airbnb em Florianópolis-SC, mais especificamente nos bairros: Canasvieiras, Centro, Ingleses, Jurerê e Lagoa da Conceição.
+Analisar os dados de ocupação e preço de anúncios no Airbnb em Florianópolis-SC, mais especificamente nos bairros: Canasvieiras, Centro, Ingleses, Jurerê e Lagoa da Conceição.
 
 Deseja-se:
 
