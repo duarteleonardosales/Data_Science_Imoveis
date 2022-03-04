@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/Autor-Leonardo_Duarte-red.svg)](https://www.linkedin.com/in/leonardo-sales-duarte/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-3712/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H5VC3OMgPVSrZcWJ1ZHbrrNjtDCjuN6P?usp=sharing)
 
 
-# 🚀 Seazone Code Challenge - Data Science
+# 🚀 Data Science aplicado ao mercado imobiliário
 
 ## 💻 Código completo no Colab
 
